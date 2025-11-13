@@ -32,7 +32,7 @@ Built with **Tkinter** for the GUI, **TextBlob** for sentiment analysis, and the
 git clone https://github.com/amandamethoxha/MoodQuoteGenerator.git
 cd MoodQuoteGenerator
 
-# 2. Create & activate venvv
+# 2. Create & activate venv
 python3 -m venv venv
 source venv/bin/activate   # macOS/Linux
 # venv\Scripts\activate    # Windows
